@@ -5,7 +5,7 @@ function display(num)
 }
 function calculate(){
     try{
-        //test comment
+        //test comment - 1
         outputscreen.value=eval(outputscreen.value);
     }
     catch(err)
